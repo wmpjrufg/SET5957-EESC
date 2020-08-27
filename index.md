@@ -6,7 +6,7 @@
 - Aluno da disciplina: Wanderlei Malaquias Pereira Junior.
 
 
-## [Trabalho 1: Problema bidimensional em elementos finitos com linguagem Python](https://wmpjrufg.github.io/CIV254-UFSCar/trabalho1.html)
+## [Trabalho 1: Problema bidimensional em elementos finitos com linguagem Python](https://wmpjrufg.github.io/SET5957-EESC/trabalho1.md)
 
 <p style='text-align: justify;'>Neste trabalho foi elaborado um código de elementos finitos para solução de vigas formadas por elementos de chapa.</p>
 
