@@ -3,7 +3,7 @@
 
 ## Integração Numérica   
 
-**Definição de Integral:** Seja uma função contínua em um intervalo fechado **[a,b]** e tal que que f(x) $\geqslant$ 0, para todo x 
+**Definição de Integral:** Seja uma função contínua em um intervalo fechado **[a,b]** e tal que que f(x) $\geqslant$ 0, para todo x $\in$ **[a,b]**   
 
 $\sum_{n=1}^{\infty} 2^{-n} = 1$
 
