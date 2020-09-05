@@ -7,15 +7,15 @@
 
 $$\int_{a}^{b} f(x) dx = \lim_{n\to\infty}\sum_{n=1}^{\infty}f(x)\Delta x, \Delta x = \dfrac{(b-a)}{n}$$
 
-Em situações que a determinação da primitiva da função f(x) é complexa costuma-se utilizar métodos numéricos de integração que consistem em determinar a $$\int_{a}^{b} f(x) dx \simeq \int_{a}^{b} \phi (x) dx$$. Onde $$\phi (x)$$ pode ser tomado como uma função aproximadora de $$f(x)$$. Normalmente a função aproximadora toma forma de um polinômio devido a facilidade na determinação da integral desse tipo de função.
+Em situações que a determinação da primitiva da função $$f(x)$$ é complexa costuma-se utilizar métodos numéricos de integração. Tais métodos consistem em determinar a $$\int_{a}^{b} f(x) dx \simeq \int_{a}^{b} \phi (x) dx$$. Onde $$\phi (x)$$ pode ser tomado como uma função aproximadora de $$f(x)$$. Normalmente a função aproximadora toma forma de um polinômio devido a facilidade na determinação da integral desse tipo de função.
 
 Logo a integração numérica pode ser dada através do seguinte somatório:
 
 $$\sum_{n=1}^{\infty}\phi (x_i).\omega_i$$
 
-Onde:
+Onde:  
 1. $$\phi (x_i)$$: Função aproximadora de $$f(x)$$
 2. $$\omega_i$$: Peso da função aproximadora $$\phi (x_i)$$
 
-<p align=”Justify”>Definição de Integral </p>
+<p align=”Justify”>teste </p>
 
