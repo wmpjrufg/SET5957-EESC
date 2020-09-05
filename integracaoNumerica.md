@@ -5,7 +5,7 @@
 
 **Definição de Integral:** Seja uma **f** função contínua em um intervalo fechado **[a,b]** e tal que que f(x) $$\geqslant$$ 0, para todo **x $$\in$$ [a,b]**, logo a integral é dada como a área da região compreendida entre o eixo das abcissas e o curva da função f, para um x variando no intervalo fechado **[a,b]**. A área é dado por:
 
-$$\int_{a}^{b} f(x)dx = \lim_{n\to\infty}\sum_{n=1}^{\infty}f(x)\Deltax$$
+$$\int_{a}^{b} f(x)dx = \lim_{n\to\infty}\sum_{n=1}^{\infty}f(x)\Deltax, \Deltax = \dfrac{(b-a)}{n}$$
 
 
 
