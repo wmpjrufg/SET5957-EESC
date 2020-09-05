@@ -6,5 +6,5 @@
 
 ### Dados iniciais
 
-[teste](https://https://wmpjrufg.github.io/SET5957-EESC/integracaoNumerica.html)
+[teste](https://wmpjrufg.github.io/SET5957-EESC/integracaoNumerica.html)
 
