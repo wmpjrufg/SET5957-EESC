@@ -11,7 +11,11 @@ Em situações que a determinação da primitiva da função f(x) é complexa co
 
 Logo a integração numérica pode ser dada através do seguinte somatório:
 
-$$\sum_{n=1}^{\infty}\phi (x_i).\omega _i$$
+$$\sum_{n=1}^{\infty}\phi (x_i).\omega_i$$
+
+Onde:
+1. $$\phi (x_i)$$: Função aproximadora de $$f(x)$$
+2. $$\omega_i$$: Peso da função aproximadora $$\phi (x_i)$$
 
 <p align=”Justify”>Definição de Integral </p>
 
