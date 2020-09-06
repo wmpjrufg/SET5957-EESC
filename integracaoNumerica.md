@@ -3,7 +3,7 @@
 
 ## Integração Numérica   
 
-**Definição de Integral:** Seja uma $$f$$ função contínua em um intervalo fechado $$[a,b]$$ e tal que que f(x) $$\geqslant$$ 0, para todo *$$x \in [a,b]$$, logo a integral é dada como a área da região compreendida entre o eixo das abcissas e o curva da função f, para um x variando no intervalo fechado $$[a,b]$$. A área é dado por:
+**Definição de Integral:** Seja uma $$f$$ função contínua em um intervalo fechado $$[a,b]$$ e tal que que f(x) $$\geqslant$$ 0, para todo $$x \in [a,b]$$, logo a integral é dada como a área da região compreendida entre o eixo das abcissas e o curva da função f, para um x variando no intervalo fechado $$[a,b]$$. A área é dado por:
 
 $$\int_{a}^{b} f(x) dx = \lim_{n\to\infty}\sum_{n=1}^{\infty}f(x)\Delta x, \Delta x = \dfrac{(b-a)}{n}$$
 
@@ -16,6 +16,7 @@ $$\sum_{n=1}^{\infty}\phi (x_i).\omega_i$$
 Onde:  
 1. $$\phi (x_i)$$: Função aproximadora de $$f(x)$$
 2. $$\omega_i$$: Peso da função aproximadora $$\phi (x_i)$$
+3. Os pontos escolhidos no intervalo $$[a,b]$$ são designados por nós de integração
 
 
 
